@@ -74,4 +74,4 @@ Processes product data, calculates discounted prices, labels products, flags exp
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/qwerty1231241244/Data_Portfolio.git
+git clone https://github.com/ibrhkmn/Data_Portfolio.git
